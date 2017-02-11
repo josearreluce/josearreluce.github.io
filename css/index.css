@@ -4,26 +4,30 @@ html, body {
 }
 
 body {
-  background-color: #C6C5C5;
+  background-color: #333333;
 }
 
 .section {
   background-color: #FFFFFF;
-  margin-left: 5%;
-  width: 90%;
+  width: 100%;
 }
 
 
 #hello {
-  background-image: url("../img/code-luis-llerena.jpg");
+  background-image: url("http://res.cloudinary.com/dmimp3tor/image/upload/v1486841340/code-luis-llerena_hkcxnx.jpg");
   background-size: cover;
   color: white;
   padding-bottom: 1.5%;  
   height: 75%;
   width: 100%;
-  margin-left: 0%;
 }
 
 #hello h1 {
 	margin-top: 50%;
 }
+
+#projects {
+	width: 90%;
+	margin-left: 5%;
+}
+
