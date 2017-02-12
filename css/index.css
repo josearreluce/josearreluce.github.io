@@ -25,7 +25,8 @@ body {
 }
 
 #hello h1 {
-	margin-top: 50%;
+  position: relative;
+	margin-top: 25%;
 }
 
 #projects {
@@ -42,6 +43,7 @@ body {
 }
 
 #inner-about {
+  position: fixed;
   color: white;
   margin-top: 25%;
 }
@@ -52,7 +54,7 @@ body {
   border: 5px solid gray;
   border-radius: 5px;
   height: 14.5%;
-  top: 48.5%;
+  top: 51%;
   left: 32.4%;
   width: 33.75%;
   opacity: 0.5;
