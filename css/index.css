@@ -9,6 +9,7 @@ body {
 
 .section {
   background-color: #FFFFFF;
+  margin-top: 2%;
   width: 100%;
 }
 
@@ -17,8 +18,9 @@ body {
   background-image: url("http://res.cloudinary.com/dmimp3tor/image/upload/v1486841340/code-luis-llerena_hkcxnx.jpg");
   background-size: cover;
   color: white;
+  margin-top: 0%;
   padding-bottom: 1.5%;  
-  height: 75%;
+  height: 100%;
   width: 100%;
 }
 
@@ -31,3 +33,36 @@ body {
 	margin-left: 5%;
 }
 
+#about {
+  background-image: url("http://res.cloudinary.com/dmimp3tor/image/upload/v1486841336/chicago-roman-arkhipov_ci7eip.jpg");
+  background-size: cover;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+#inner-about {
+  color: white;
+  margin-top: 25%;
+}
+
+#inner-about-background {
+  position: fixed;
+  background-color: darkgray;
+  border: 5px solid gray;
+  border-radius: 5px;
+  height: 14.5%;
+  top: 48.5%;
+  left: 32.4%;
+  width: 33.75%;
+  opacity: 0.5;
+}
+
+#temp h1 {
+  position: fixed;
+  font-size: 250%;
+  top: 35%;
+  left: 35%;
+  height: 20%;
+  width: 20%;
+}
