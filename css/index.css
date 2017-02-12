@@ -15,7 +15,7 @@ body {
 
 
 #hello {
-  background-image: url("http://res.cloudinary.com/dmimp3tor/image/upload/v1486841340/code-luis-llerena_hkcxnx.jpg");
+  background-image: url("https://res.cloudinary.com/dmimp3tor/image/upload/v1486841340/code-luis-llerena_hkcxnx.jpg");
   background-size: cover;
   color: white;
   margin-top: 0%;
@@ -35,7 +35,7 @@ body {
 }
 
 #about {
-  background-image: url("http://res.cloudinary.com/dmimp3tor/image/upload/v1486841336/chicago-roman-arkhipov_ci7eip.jpg");
+  background-image: url("https://res.cloudinary.com/dmimp3tor/image/upload/v1486841336/chicago-roman-arkhipov_ci7eip.jpg");
   background-size: cover;
   color: white;
   height: 100%;
@@ -55,11 +55,9 @@ body {
   position: relative;
   top: 5%;
   left: 2.5%;
-}
-
-#education {
   width: 90%;
 }
+
 .resume-section h3 {
   position: relative;
   left: 5%;
@@ -70,9 +68,6 @@ body {
   left: 5%;
 }
 
-#experience {
-  width: 90%;
-}
 
 ul {
   list-style-type: none;
@@ -80,8 +75,4 @@ ul {
 
 #linkspanel {
   padding-bottom: 5%;
-}
-
-#resume-title {
-  width: 90%;
 }
